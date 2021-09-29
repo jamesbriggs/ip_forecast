@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Program: ip_forecast.sh
-# Purpose: show current weather for a location using an IP address, demonstrating curl and jq
+# Purpose: show weather forecast for a location using an IP address, demonstrating curl and jq
 # Author: James Briggs
 # Date: 2021 02 08
 # Env: bash
