@@ -1,5 +1,5 @@
 # ip_forecast
-Show current weather using Internet cloud services data for a location using an IP address, demonstrating non-trivial use of the curl and jq utilities on linux and Mac OS.
+Show a weather forecast using Internet cloud services data for a location using an IP address, demonstrating non-trivial use of the curl and jq utilities on linux and Mac OS.
 ```
 $ ./ip_forecast.sh
 Weather forecast for 69.209.nnn.nnn (San Francisco):
